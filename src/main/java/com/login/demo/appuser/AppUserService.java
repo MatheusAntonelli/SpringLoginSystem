@@ -37,7 +37,7 @@ public class AppUserService implements UserDetailsService {
        // TODO: Send Confirmation token
 
 
-        return "it works";
+        return "it";
     }
 
 }
